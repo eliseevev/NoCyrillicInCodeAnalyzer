@@ -8,21 +8,20 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>Eliseev.NoCyrillicInCodeAnalyzer</PackageId>
-    <PackageVersion>1.0.0.0</PackageVersion>
+    <PackageId>NoCyrillicInCodeAnalyzer</PackageId>
+    <PackageVersion>0.0.1</PackageVersion>
     <Authors>eliseevev</Authors>
-    <PackageLicenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</PackageLicenseUrl>
-    <PackageProjectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</PackageProjectUrl>
-    <PackageIconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</PackageIconUrl>
-    <RepositoryUrl>http://REPOSITORY_URL_HERE_OR_DELETE_THIS_LINE</RepositoryUrl>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/eliseev-ev/NoCyrillicInCodeAnalyzer</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/eliseevev/NoCyrillicInCodeAnalyzer/main/icon.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/eliseevev/NoCyrillicInCodeAnalyzer</RepositoryUrl>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <Description>Eliseev.NoCyrillicInCodeAnalyzer</Description>
-    <PackageReleaseNotes>Summary of changes made in this release of the package.</PackageReleaseNotes>
-    <Copyright>Copyright</Copyright>
-    <PackageTags>Eliseev.NoCyrillicInCodeAnalyzer, analyzers</PackageTags>
+    <Description>Roslyn analyzer that detects and removes Cyrillic letters in code.</Description>
+    <PackageReleaseNotes>Initial release: detects Cyrillic letters in type names, namespaces, variables, methods, properties, fields, and other identifiers, and offers an automatic code fix.</PackageReleaseNotes>
+    <Copyright>Copyright © 2025 eliseevev</Copyright>
+    <PackageTags>roslyn, analyzer, cyrillic, naming, codefix</PackageTags>
     <DevelopmentDependency>true</DevelopmentDependency>
     <NoPackageAnalysis>true</NoPackageAnalysis>
-
     <TargetsForTfmSpecificContentInPackage>$(TargetsForTfmSpecificContentInPackage);_AddAnalyzersToOutput</TargetsForTfmSpecificContentInPackage>
   </PropertyGroup>
 
