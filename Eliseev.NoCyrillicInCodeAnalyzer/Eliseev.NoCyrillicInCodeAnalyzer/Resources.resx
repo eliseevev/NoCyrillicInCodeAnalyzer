@@ -141,4 +141,100 @@
     <value>Namespace '{0}' contains Cyrillic letters</value>
     <comment>The format-able message the diagnostic displays.</comment>
   </data>
+  <data name="NC0003AnalyzerDescription" xml:space="preserve">
+    <value>Method names must not contain Cyrillic letters</value>
+    <comment>An optional longer localizable description of the diagnostic.</comment>
+  </data>
+  <data name="NC0003AnalyzerTitle" xml:space="preserve">
+    <value>Method name must not contain Cyrillic letters</value>
+    <comment>The title of the diagnostic.</comment>
+  </data>
+  <data name="NC0004AnalyzerDescription" xml:space="preserve">
+    <value>Field names must not contain Cyrillic letters</value>
+    <comment>An optional longer localizable description of the diagnostic.</comment>
+  </data>
+  <data name="NC0007AnalyzerMessageFormat" xml:space="preserve">
+    <value>Parameter name '{0}' contains Cyrillic letters</value>
+    <comment>The format-able message the diagnostic displays.</comment>
+  </data>
+  <data name="NC0005AnalyzerDescription" xml:space="preserve">
+    <value>Properties names must not contain Cyrillic letters</value>
+    <comment>An optional longer localizable description of the diagnostic.</comment>
+  </data>
+  <data name="NC0004AnalyzerMessageFormat" xml:space="preserve">
+    <value>Field name '{0}' contains Cyrillic letters</value>
+    <comment>The format-able message the diagnostic displays.</comment>
+  </data>
+  <data name="NC0005AnalyzerTitle" xml:space="preserve">
+    <value>Property name must not contain Cyrillic letters</value>
+    <comment>The title of the diagnostic.</comment>
+  </data>
+  <data name="NC0006AnalyzerDescription" xml:space="preserve">
+    <value>Local names must not contain Cyrillic letters</value>
+    <comment>An optional longer localizable description of the diagnostic.</comment>
+  </data>
+  <data name="NC0005AnalyzerMessageFormat" xml:space="preserve">
+    <value>Property name '{0}' contains Cyrillic letters</value>
+    <comment>The format-able message the diagnostic displays.</comment>
+  </data>
+  <data name="NC0006AnalyzerTitle" xml:space="preserve">
+    <value>Local name must not contain Cyrillic letters</value>
+    <comment>The title of the diagnostic.</comment>
+  </data>
+  <data name="NC0007AnalyzerTitle" xml:space="preserve">
+    <value>Parameter name must not contain Cyrillic letters</value>
+    <comment>The title of the diagnostic.</comment>
+  </data>
+  <data name="NC0003AnalyzerMessageFormat" xml:space="preserve">
+    <value>Method name '{0}' contains Cyrillic letters</value>
+    <comment>The format-able message the diagnostic displays.</comment>
+  </data>
+  <data name="NC0007AnalyzerDescription" xml:space="preserve">
+    <value>Parameter names must not contain Cyrillic letters</value>
+    <comment>An optional longer localizable description of the diagnostic.</comment>
+  </data>
+  <data name="NC0004AnalyzerTitle" xml:space="preserve">
+    <value>Field name must not contain Cyrillic letters</value>
+    <comment>The title of the diagnostic.</comment>
+  </data>
+  <data name="NC0006AnalyzerMessageFormat" xml:space="preserve">
+    <value>Local name '{0}' contains Cyrillic letters</value>
+    <comment>The format-able message the diagnostic displays.</comment>
+  </data>
+  <data name="NC0008AnalyzerTitle" xml:space="preserve">
+    <value>Type parameter name must not contain Cyrillic letters</value>
+    <comment>The title of the diagnostic.</comment>
+  </data>
+  <data name="NC0008AnalyzerDescription" xml:space="preserve">
+    <value>Type parameter names must not contain Cyrillic letters</value>
+    <comment>An optional longer localizable description of the diagnostic.</comment>
+  </data>
+  <data name="NC0008AnalyzerMessageFormat" xml:space="preserve">
+    <value>Type parameter name '{0}' contains Cyrillic letters</value>
+    <comment>The format-able message the diagnostic displays.</comment>
+  </data>
+  <data name="NC0009AnalyzerDescription" xml:space="preserve">
+    <value>Enum names must not contain Cyrillic letters</value>
+    <comment>An optional longer localizable description of the diagnostic.</comment>
+  </data>
+  <data name="NC0009AnalyzerMessageFormat" xml:space="preserve">
+    <value>Enum name '{0}' contains Cyrillic letters</value>
+    <comment>The format-able message the diagnostic displays.</comment>
+  </data>
+  <data name="NC0009AnalyzerTitle" xml:space="preserve">
+    <value>Enum name must not contain Cyrillic letters</value>
+    <comment>The title of the diagnostic.</comment>
+  </data>
+  <data name="NC0010AnalyzerDescription" xml:space="preserve">
+    <value>Event names must not contain Cyrillic letters</value>
+    <comment>An optional longer localizable description of the diagnostic.</comment>
+  </data>
+  <data name="NC0010AnalyzerMessageFormat" xml:space="preserve">
+    <value>Event name '{0}' contains Cyrillic letters</value>
+    <comment>The format-able message the diagnostic displays.</comment>
+  </data>
+  <data name="NC0010AnalyzerTitle" xml:space="preserve">
+    <value>Event name must not contain Cyrillic letters</value>
+    <comment>The title of the diagnostic.</comment>
+  </data>
 </root>

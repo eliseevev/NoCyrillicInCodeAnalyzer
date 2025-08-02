@@ -113,5 +113,221 @@ namespace Eliseev.NoCyrillicInCodeAnalyzer {
                 return ResourceManager.GetString("NC0002AnalyzerTitle", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Method names must not contain Cyrillic letters.
+        /// </summary>
+        internal static string NC0003AnalyzerDescription {
+            get {
+                return ResourceManager.GetString("NC0003AnalyzerDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Method name &apos;{0}&apos; contains Cyrillic letters.
+        /// </summary>
+        internal static string NC0003AnalyzerMessageFormat {
+            get {
+                return ResourceManager.GetString("NC0003AnalyzerMessageFormat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Method name must not contain Cyrillic letters.
+        /// </summary>
+        internal static string NC0003AnalyzerTitle {
+            get {
+                return ResourceManager.GetString("NC0003AnalyzerTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Field names must not contain Cyrillic letters.
+        /// </summary>
+        internal static string NC0004AnalyzerDescription {
+            get {
+                return ResourceManager.GetString("NC0004AnalyzerDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Field name &apos;{0}&apos; contains Cyrillic letters.
+        /// </summary>
+        internal static string NC0004AnalyzerMessageFormat {
+            get {
+                return ResourceManager.GetString("NC0004AnalyzerMessageFormat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Field name must not contain Cyrillic letters.
+        /// </summary>
+        internal static string NC0004AnalyzerTitle {
+            get {
+                return ResourceManager.GetString("NC0004AnalyzerTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Properties names must not contain Cyrillic letters.
+        /// </summary>
+        internal static string NC0005AnalyzerDescription {
+            get {
+                return ResourceManager.GetString("NC0005AnalyzerDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Property name &apos;{0}&apos; contains Cyrillic letters.
+        /// </summary>
+        internal static string NC0005AnalyzerMessageFormat {
+            get {
+                return ResourceManager.GetString("NC0005AnalyzerMessageFormat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Property name must not contain Cyrillic letters.
+        /// </summary>
+        internal static string NC0005AnalyzerTitle {
+            get {
+                return ResourceManager.GetString("NC0005AnalyzerTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Local names must not contain Cyrillic letters.
+        /// </summary>
+        internal static string NC0006AnalyzerDescription {
+            get {
+                return ResourceManager.GetString("NC0006AnalyzerDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Local name &apos;{0}&apos; contains Cyrillic letters.
+        /// </summary>
+        internal static string NC0006AnalyzerMessageFormat {
+            get {
+                return ResourceManager.GetString("NC0006AnalyzerMessageFormat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Local name must not contain Cyrillic letters.
+        /// </summary>
+        internal static string NC0006AnalyzerTitle {
+            get {
+                return ResourceManager.GetString("NC0006AnalyzerTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Parameter names must not contain Cyrillic letters.
+        /// </summary>
+        internal static string NC0007AnalyzerDescription {
+            get {
+                return ResourceManager.GetString("NC0007AnalyzerDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Parameter name &apos;{0}&apos; contains Cyrillic letters.
+        /// </summary>
+        internal static string NC0007AnalyzerMessageFormat {
+            get {
+                return ResourceManager.GetString("NC0007AnalyzerMessageFormat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Parameter name must not contain Cyrillic letters.
+        /// </summary>
+        internal static string NC0007AnalyzerTitle {
+            get {
+                return ResourceManager.GetString("NC0007AnalyzerTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Type parameter names must not contain Cyrillic letters.
+        /// </summary>
+        internal static string NC0008AnalyzerDescription {
+            get {
+                return ResourceManager.GetString("NC0008AnalyzerDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Type parameter name &apos;{0}&apos; contains Cyrillic letters.
+        /// </summary>
+        internal static string NC0008AnalyzerMessageFormat {
+            get {
+                return ResourceManager.GetString("NC0008AnalyzerMessageFormat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Type parameter name must not contain Cyrillic letters.
+        /// </summary>
+        internal static string NC0008AnalyzerTitle {
+            get {
+                return ResourceManager.GetString("NC0008AnalyzerTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Enum names must not contain Cyrillic letters.
+        /// </summary>
+        internal static string NC0009AnalyzerDescription {
+            get {
+                return ResourceManager.GetString("NC0009AnalyzerDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Enum name &apos;{0}&apos; contains Cyrillic letters.
+        /// </summary>
+        internal static string NC0009AnalyzerMessageFormat {
+            get {
+                return ResourceManager.GetString("NC0009AnalyzerMessageFormat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Enum name must not contain Cyrillic letters.
+        /// </summary>
+        internal static string NC0009AnalyzerTitle {
+            get {
+                return ResourceManager.GetString("NC0009AnalyzerTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Event names must not contain Cyrillic letters.
+        /// </summary>
+        internal static string NC0010AnalyzerDescription {
+            get {
+                return ResourceManager.GetString("NC0010AnalyzerDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Event name &apos;{0}&apos; contains Cyrillic letters.
+        /// </summary>
+        internal static string NC0010AnalyzerMessageFormat {
+            get {
+                return ResourceManager.GetString("NC0010AnalyzerMessageFormat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Event name must not contain Cyrillic letters.
+        /// </summary>
+        internal static string NC0010AnalyzerTitle {
+            get {
+                return ResourceManager.GetString("NC0010AnalyzerTitle", resourceCulture);
+            }
+        }
     }
 }

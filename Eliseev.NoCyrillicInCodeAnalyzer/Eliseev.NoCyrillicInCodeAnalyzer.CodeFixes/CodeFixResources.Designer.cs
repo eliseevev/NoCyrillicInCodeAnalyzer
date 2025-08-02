@@ -77,5 +77,77 @@ namespace Eliseev.NoCyrillicInCodeAnalyzer {
                 return ResourceManager.GetString("NC0002CodeFixTitle", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Replace Cyrillic letters with Latin.
+        /// </summary>
+        internal static string NC0003CodeFixTitle {
+            get {
+                return ResourceManager.GetString("NC0003CodeFixTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Replace Cyrillic letters with Latin.
+        /// </summary>
+        internal static string NC0004CodeFixTitle {
+            get {
+                return ResourceManager.GetString("NC0004CodeFixTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Replace Cyrillic letters with Latin.
+        /// </summary>
+        internal static string NC0005CodeFixTitle {
+            get {
+                return ResourceManager.GetString("NC0005CodeFixTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Replace Cyrillic letters with Latin.
+        /// </summary>
+        internal static string NC0006CodeFixTitle {
+            get {
+                return ResourceManager.GetString("NC0006CodeFixTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Replace Cyrillic letters with Latin.
+        /// </summary>
+        internal static string NC0007CodeFixTitle {
+            get {
+                return ResourceManager.GetString("NC0007CodeFixTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Replace Cyrillic letters with Latin.
+        /// </summary>
+        internal static string NC0008CodeFixTitle {
+            get {
+                return ResourceManager.GetString("NC0008CodeFixTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Replace Cyrillic letters with Latin.
+        /// </summary>
+        internal static string NC0009CodeFixTitle {
+            get {
+                return ResourceManager.GetString("NC0009CodeFixTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Replace Cyrillic letters with Latin.
+        /// </summary>
+        internal static string NC0010CodeFixTitle {
+            get {
+                return ResourceManager.GetString("NC0010CodeFixTitle", resourceCulture);
+            }
+        }
     }
 }

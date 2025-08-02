@@ -125,4 +125,36 @@
     <value>Replace Cyrillic letters with Latin</value>
     <comment>The title of the code fix.</comment>
   </data>
+  <data name="NC0003CodeFixTitle" xml:space="preserve">
+    <value>Replace Cyrillic letters with Latin</value>
+    <comment>The title of the code fix.</comment>
+  </data>
+  <data name="NC0004CodeFixTitle" xml:space="preserve">
+    <value>Replace Cyrillic letters with Latin</value>
+    <comment>The title of the code fix.</comment>
+  </data>
+  <data name="NC0005CodeFixTitle" xml:space="preserve">
+    <value>Replace Cyrillic letters with Latin</value>
+    <comment>The title of the code fix.</comment>
+  </data>
+  <data name="NC0006CodeFixTitle" xml:space="preserve">
+    <value>Replace Cyrillic letters with Latin</value>
+    <comment>The title of the code fix.</comment>
+  </data>
+  <data name="NC0007CodeFixTitle" xml:space="preserve">
+    <value>Replace Cyrillic letters with Latin</value>
+    <comment>The title of the code fix.</comment>
+  </data>
+  <data name="NC0008CodeFixTitle" xml:space="preserve">
+    <value>Replace Cyrillic letters with Latin</value>
+    <comment>The title of the code fix.</comment>
+  </data>
+  <data name="NC0009CodeFixTitle" xml:space="preserve">
+    <value>Replace Cyrillic letters with Latin</value>
+    <comment>The title of the code fix.</comment>
+  </data>
+  <data name="NC0010CodeFixTitle" xml:space="preserve">
+    <value>Replace Cyrillic letters with Latin</value>
+    <comment>The title of the code fix.</comment>
+  </data>
 </root>
