@@ -9,7 +9,7 @@
 
   <PropertyGroup>
     <PackageId>NoCyrillicInCodeAnalyzer</PackageId>
-    <PackageVersion>0.0.1</PackageVersion>
+    <PackageVersion>0.1.0</PackageVersion>
     <Authors>eliseevev</Authors>
     <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/eliseev-ev/NoCyrillicInCodeAnalyzer</PackageProjectUrl>
@@ -28,10 +28,6 @@
   <ItemGroup>
     <ProjectReference Include="..\Eliseev.NoCyrillicInCodeAnalyzer.CodeFixes\Eliseev.NoCyrillicInCodeAnalyzer.CodeFixes.csproj" />
     <ProjectReference Include="..\Eliseev.NoCyrillicInCodeAnalyzer\Eliseev.NoCyrillicInCodeAnalyzer.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Update="tools\*.ps1" CopyToOutputDirectory="PreserveNewest" Pack="true" PackagePath="" />
   </ItemGroup>
 
   <Target Name="_AddAnalyzersToOutput">
