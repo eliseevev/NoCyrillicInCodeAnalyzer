@@ -17,7 +17,16 @@ namespace Eliseev.NoCyrillicInCodeAnalyzer
         private static readonly LocalizableString Description = new LocalizableResourceString(nameof(Resources.NC0010AnalyzerDescription), Resources.ResourceManager, typeof(Resources));
         private const string Category = "Naming";
 
-        private static readonly DiagnosticDescriptor Rule = new DiagnosticDescriptor(DiagnosticId, Title, MessageFormat, Category, DiagnosticSeverity.Warning, isEnabledByDefault: true, description: Description);
+        private static readonly DiagnosticDescriptor Rule = new DiagnosticDescriptor(
+            DiagnosticId,
+            Title,
+            MessageFormat,
+            Category,
+            DiagnosticSeverity.Warning,
+            isEnabledByDefault: true,
+            description: Description,
+            helpLinkUri: "https://github.com/eliseevev/NoCyrillicInCodeAnalyzer/blob/master/documentation/rules/NC0010.md"
+        );
 
         public override ImmutableArray<DiagnosticDescriptor> SupportedDiagnostics => ImmutableArray.Create(Rule);
 
