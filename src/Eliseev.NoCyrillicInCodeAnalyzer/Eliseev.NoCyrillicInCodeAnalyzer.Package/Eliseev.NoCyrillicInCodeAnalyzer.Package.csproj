@@ -13,7 +13,7 @@
     <Authors>eliseevev</Authors>
     <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/eliseev-ev/NoCyrillicInCodeAnalyzer</PackageProjectUrl>
-    <PackageIconUrl>https://raw.githubusercontent.com/eliseevev/NoCyrillicInCodeAnalyzer/main/icon.png</PackageIconUrl>
+    <PackageIconUrl>https://github.com/eliseevev/NoCyrillicInCodeAnalyzer/blob/master/Icon-64.png?raw=true</PackageIconUrl>
     <RepositoryUrl>https://github.com/eliseevev/NoCyrillicInCodeAnalyzer</RepositoryUrl>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Description>Roslyn analyzer that detects and removes Cyrillic letters in code.</Description>
