@@ -1,8 +1,8 @@
 ﻿using System.Threading.Tasks;
+using Xunit;
 using VerifyCS = Eliseev.NoCyrillicInCodeAnalyzer.Test.CSharpCodeFixVerifier<
     Eliseev.NoCyrillicInCodeAnalyzer.NC0001NoCyrillicInTypeName,
     Eliseev.NoCyrillicInCodeAnalyzer.NC0001NoCyrillicInTypeNameFixProvider>;
-using Xunit;
 
 namespace Eliseev.NoCyrillicInCodeAnalyzer.Test
 {

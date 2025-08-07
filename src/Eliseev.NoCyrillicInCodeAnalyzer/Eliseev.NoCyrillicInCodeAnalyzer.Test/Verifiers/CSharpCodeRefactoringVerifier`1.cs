@@ -1,7 +1,7 @@
-﻿using System.Threading;
-using System.Threading.Tasks;
-using Microsoft.CodeAnalysis.CodeRefactorings;
+﻿using Microsoft.CodeAnalysis.CodeRefactorings;
 using Microsoft.CodeAnalysis.Testing;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace Eliseev.NoCyrillicInCodeAnalyzer.Test
 {

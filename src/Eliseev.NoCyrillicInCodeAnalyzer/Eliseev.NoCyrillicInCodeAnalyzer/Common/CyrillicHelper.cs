@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Text;
 
 namespace Eliseev.NoCyrillicInCodeAnalyzer.Common
 {
-    public static class CyrillicHelper
+    internal static class CyrillicHelper
     {
         private static readonly Dictionary<char, string> _basicCyrillicToLatinMap = new Dictionary<char, string>
         {

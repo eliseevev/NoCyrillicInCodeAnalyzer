@@ -1,8 +1,8 @@
 using Eliseev.NoCyrillicInCodeAnalyzer.Common;
 using Microsoft.CodeAnalysis;
-using Microsoft.CodeAnalysis.Diagnostics;
 using Microsoft.CodeAnalysis.CSharp;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
+using Microsoft.CodeAnalysis.Diagnostics;
 using System.Collections.Immutable;
 
 namespace Eliseev.NoCyrillicInCodeAnalyzer
